@@ -1,0 +1,103 @@
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<h1 style="color:red;">Common types of Injection</h1>
+<h2 style="color:blue;">Injections deliver liquid medications, fluids, or nutrients directly into a person’s body. Different types of injections include intravenous, intramuscular, subcutaneous, intraosseous, and intradermal.<p>
+<p>
+<img src="https://t4.ftcdn.net/jpg/05/37/30/01/360_F_537300149_UTtkz4HsWtdgK3HiDRCqwOD1KQFQFexR.jpg" height="400px" width= "700px">  <p>
+
+<h2 style="color:blue;"> 1. Intravenous injections:
+<h3>Healthcare professionals use intravenous (IV) injections to give medications directly into a vein.<p>
+
+<h3>They may use an intravenous injection to:<p>
+<p>
+<p>
+• Administer fluid solutions and electrolytes to a person experiencing dehydration<p>
+• Give local and general anesthesia to people having surgery or a procedure<p>
+• Administer pain medications to a person in the emergency room or after surgery<p>
+• Give blood or blood products to a person<p>
+<p>
+<p>
+<h3>Common IV injection sites — areas where veins lie close to a person’s skin — include:<p>
+
+• The back of the hands<p>
+• The front and back of the lower arm<p>
+• The front elbow pit<p>
+
+<img src="https://res.cloudinary.com/go1/image/upload/v1572424049/r7rvbsxd7hgmutotym6v.jpg" height="400px" width= "600px"> <p>
+
+
+<h2 style="color:blue;">2. Intramuscular injections 
+
+      
+<h3> Doctors can use intramuscular injections to deliver medication into a person’s muscle tissue. The muscles have a rich blood supply, which helps the body absorb the medication quickly.
+<h3>Common uses for intramuscular injections may includeTrusted Source: <p>
+<p>• Administering most vaccines, per the Centers for Disease Control and Prevention 
+<p>• Administering select antibiotics, such as penicillin and streptomycin
+<p>• Giving corticosteroids for inflammation or allergic reactions<p>
+<h3>People with certain conditions, such as multiple sclerosis, may need to give themselves this type of injection at home. The recommended intramuscular injection sites include:<p>
+• The upper outer thigh area muscle<p>
+• The shoulder muscle and upper arm<p>
+• The hip<p>
+
+
+<img src="https://media.istockphoto.com/id/1209732475/vector/realistic-image-of-intramuscular-injection-on-a-white-background-with-the-image-of-the.jpg?s=612x612&w=0&k=20&c=uv25x-J-0i_YECIyxxrgspSSeW4uoaY4qw4gPVRGNZ8=" height="400px" width= "600px">  <p>
+
+
+<h2 style="color:blue;"> 3. Subcutaneous injections<p>  
+
+<h3>Healthcare professionals administer subcutaneous injections into the fatty tissue just below the skin and above the muscle tissue. They will use a smaller needle to give subcutaneous injections to ensure the medication enters the fatty tissue and not the muscle.<p>
+<p>Common uses for subcutaneous injections may include the administration of:
+<p>•	Insulin for diabetes
+<p>•	heparin, or blood thinners
+<p>•	The measles (mmr) and chickenpox (varicella) vaccines
+
+<p>Common subcutaneous injection sites include:<p>
+<p>•	The outer side or back of the upper arm
+<p>•	The front and outer side of the upper thigh
+<p>•	The belly area
+<p>
+
+<img src="https://media.istockphoto.com/id/1010464372/vector/skin-subcutaneous-injection-diagram.jpg?s=612x612&w=0&k=20&c=va_gV1ZsqirFUUURup5hyrrIXG5xkqA5Xq0deIPW7jg=" height="400px" width= "600px"> 
+
+<h2 style="color:blue;"> 4. Intradermal injections 
+
+<h3>Healthcare professionals give intradermal injections just below the surface of the skin, creating a small bump called a bleb or wheal.<p>
+<h3>Common uses of intradermal injections may include:<p>
+
+<p>•	Allergy testing
+<p>•	tuberculosis (tb) screening
+<p>•	Administration of influenza vaccine fluzone
+
+<h3>Healthcare professionals most commonly use body parts with little hair as intradermal injection sites. These areas typically include the inner surface of the forearm and the upper back, under the scapula. Additionally, the skin injection site should have no sores, rashes, moles, or scars.<p> 
+
+<img src="https://img.freepik.com/free-vector/intradermal-injection-with-explanation_1308-128893.jpg" height="400px" width= "500px"> <p>
+
+
+
+<p>
+<p>
+<h3> References:<p>
+
+<p>Davis, K. (2021, July 30). What to know about different types of injections. Medicalnewstoday.com; Medical News Today. https://www.medicalnewstoday.com/articles/types-of-injections#intradermal
+
+<p>Injection techniques vector illustration. Medical procedure examples scheme. (2024). Intradermal Images – Browse 1,874 Stock Photos, Vectors, and Video. Adobe Stock. https://stock.adobe.com/ph/search?k=intradermal
+
+
+<p>Venepuncture and IV Cannulation (3/5) - Special considerations for children and neonates. (2019). Go1.com. https://www.go1.com/lo/venepuncture-and-iv-cannulation-35-special-considerations-for-children-and-neonates/11787790
+
+
+<p> (2024). Istockphoto.com. https://www.istockphoto.com/illustrations/intramuscular-injection
+
+
+
+<p> Stock, D. (2018, July 31). Skin subcutaneous Injection diagram illustration. IStock. https://www.istockphoto.com/vector/skin-subcutaneous-injection-diagram-gm1010464372-272337265
+
+
+
+<p> Free Vector | Intradermal injection with explanation. (2023). Freepik. https://www.freepik.com/free-vector/intradermal-injection-with-explanation_38661651.htm
+
